@@ -1,0 +1,21 @@
+{
+  "conversionCosts": {
+    "$": {
+      "r": 1,
+      "eur": 1
+    },
+    "eur": {
+      "r": 1,
+      "$": 1
+    },
+    "r": {
+      "eur": 1,
+      "$": 1
+    }
+  },
+  "conversionToCurrencyConventions": {
+    "ToDollar": "$",
+    "ToEuro": "eur",
+    "ToRub": "r"
+  }
+}

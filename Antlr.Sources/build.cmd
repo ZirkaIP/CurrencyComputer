@@ -1,0 +1,2 @@
+rmdir /S /Q ../CurrencyComputer.Engine.Antlr/Generated.Antrl
+java -jar antlr-4.8-complete.jar -visitor -no-listener -Dlanguage=CSharp CurrencyComputer.g4 -o ../CurrencyComputer.Engine.Antlr/Generated.Antrl
