@@ -1,4 +1,4 @@
-How to open 
+How to run the application
 
 0. install JRE
 1. run codegen from ./Antlr.Sources/build.cmd
